@@ -1,6 +1,6 @@
 # Cat vs Dog Image Classification Using SVM
 
-This is **Task 2** of my internship at *Skill Craft Technology*.  
+This is **Task 3** of my internship at *Skill Craft Technology*.  
 This project applies image classification using **Support Vector Machine (SVM)** on deep features extracted from the **MobileNetV2** model. The goal is to classify images into either **Cat** or **Dog** using a traditional ML classifier with the power of deep learning features.
 
 Project Features
